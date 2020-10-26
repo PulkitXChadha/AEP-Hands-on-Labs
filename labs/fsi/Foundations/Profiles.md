@@ -56,7 +56,7 @@ Instructions:
       <li>After logging in, you'll land on the homepage of Adobe Experience Platform.</li>
 <li>In the menu on the left side, go to Profiles.</li>
 <li>Click on Browse in the Profile navigation.  You will see fields for a namespace and an ID value.</li>
-<li>In a new browser tab, go to https://americaspot1-publish.adobedemo.com/content/we-finance-pot/language-masters/en.html#.</li>
+<li>In a new browser tab, go to https://americaspot2-publish.adobedemo.com/content/luma/language-masters/en.html.</li>
 <li>In the left margin, click on the “person” icon. This will display the X-ray panel from this website.</li>
 <li>Expand the Real-time Customer Profile section. </li>
 <li>Observe the identities and their linkage to a namespace.</li>
